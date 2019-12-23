@@ -1,0 +1,2 @@
+recursive-include hseling_api_fake_corpora_interface/templates *
+recursive-include hseling_api_fake_corpora_interface/static *
